@@ -174,28 +174,28 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Gained hands-on experience in website development, assisting in creating a dynamic, user-friendly platform using React.js & Wordpress (PHP). Contributed to the site’s interactivity and responsiveness, learning the fundamentals of web design and enhancing my skills in front-end development.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Digital Marketing Specialist",
+    desc: "Designed and executed a mobile-focused digital marketing campaign to boost app downloads for both iOS and Android platforms. Developed content strategies, managed social media promotions, and used analytics to measure engagement, optimizing campaigns for maximum reach and conversion.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Website Development & Video Editing",
+    desc: "Led a comprehensive project involving website development and video editing for a client’s brand launch. Built a visually engaging website from scratch, integrating multimedia elements and user-friendly navigation. Additionally, produced and edited promotional videos, enhancing brand storytelling and online presence.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Digital Marketing & Design",
+    desc: "DOversaw creative design and digital marketing initiatives, developing visually compelling graphics and video content to drive engagement. Managed end-to-end design projects, from concept to execution, ensuring brand consistency across all media. Used analytics to fine-tune marketing strategies, boosting brand visibility and engagement.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
