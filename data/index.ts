@@ -181,7 +181,7 @@ export const workExperience = [
   {
     id: 2,
     title: "Digital Marketing Specialist",
-    desc: "Designed and executed a mobile-focused digital marketing campaign to boost app downloads for both iOS and Android platforms. Developed content strategies, managed social media promotions, and used analytics to measure engagement, optimizing campaigns for maximum reach and conversion.",
+    desc: "Designed and executed a mobile-focused digital marketing campaign. Developed content strategies, managed social media promotions, and used analytics to measure engagement, optimizing campaigns for maximum reach and conversion.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
@@ -194,8 +194,8 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Digital Marketing & Design",
-    desc: "DOversaw creative design and digital marketing initiatives, developing visually compelling graphics and video content to drive engagement. Managed end-to-end design projects, from concept to execution, ensuring brand consistency across all media. Used analytics to fine-tune marketing strategies, boosting brand visibility and engagement.",
+    title: "Graphic Design & Digital Branding",
+    desc: "Directed creative efforts focused on graphic design, digital branding, and logo creation. Developed distinctive logos and cohesive visual assets that enhance brand identity across digital platforms. Utilized design principles to produce eye-catching graphics that align with marketing goals, enhancing brand recognition and customer engagement.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
